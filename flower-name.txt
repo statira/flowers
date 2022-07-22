@@ -1,2 +1,4 @@
 Rose - rosa
 Lily - lilium.
+Tulip - tulipa.
+Orchid - phalaenopsis.
